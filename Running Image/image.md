@@ -16,6 +16,6 @@ Now, You have image and you want to run it right how you can do that?
 `docker stop <image name>`
 
 ### You want to stick with image terminal with your terminal not to terminate to do that you need:  
-start image `docker start <image name>`  
-stick with your terminal `docker exec -it <image name> bash`  
-stop image `docker stop <image name>`  
+1.  start image `docker start <image name>`  
+2.  stick with your terminal `docker exec -it <image name> bash`  
+3.  stop image `docker stop <image name>`  
