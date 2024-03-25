@@ -7,3 +7,8 @@
 **Step - 2:** WSL version 1.1.3.0 or later means that you need to install WSL (Windows Subsystem for Linux). Win 10 pro or 11 pro has pre-installed Linux distribution. So you can now install WSL from microsoft store. Search for linux you'll get **kali**, **ubuntu**, **oracle linux**. I downloaded ubuntu LTS because I saw people having problem with other WSL.  
   
 **Step - 3:** Just run your Docker desktop and your done.  
+  
+  
+
+### Check
+Open `cmd` type `docker -v` hit enter and see the docker version.
