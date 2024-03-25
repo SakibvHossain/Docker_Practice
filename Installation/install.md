@@ -11,4 +11,7 @@
   
 
 ### Check
-Open `cmd` type `docker -v` hit enter and see the docker version.
+Open `cmd` type `docker -v` hit enter and see the docker version.  
+  
+**Having problem?**  
+Set the path to system veriable `C:\Program Files\Docker\Docker\resources\bin` then  check again.
